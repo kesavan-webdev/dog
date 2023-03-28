@@ -1,0 +1,24 @@
+.card {
+  width: 20rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  margin: 2rem auto;
+  box-shadow: 5px 10px 10px #888888;
+}
+.img-container {
+  width: 12rem;
+  height: 12rem;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+#id {
+  display: flex;
+  flex-direction: row;
+}
